@@ -25,12 +25,12 @@ const Features = () => {
         />
         <Card
           title="SEO Optimisation"
-          des="will be soon...."
+          des="coming soon...."
           icon={<SiProgress />}
         />
         <Card
           title="Mobile Development"
-          des="will be soon"
+          des="coming soon...."
           icon={<FaMobile />}
         />
         <Card
